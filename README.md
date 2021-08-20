@@ -3,14 +3,45 @@
     <img src="https://i.ibb.co/1LyDXjc/geek-Matheus.png" alt="geek-Matheus" border="0" /></a>
 </p>
 
+## Tudo Sobre Listas & Tuplas 📑 com Python 🐍
+
+<br>
+
+<p align = "center" id = "project">
+
+  Nesse repositorio tem todos os programas para maximizar os seus estudos e conceito sobre Listas e Tuplas. ⚡🔥
+ 
+</p>
+
+<br>
+
+<h2 id = "techs">
+  🚀 Programas
+</h2>
+
+Sobre os programas:
+
+- [list_tuplas](https://github.com/Matheus-Nazario/tudo_sobre_listas_tuplas/blob/main/list_tuplas.py) </br>`  Casos de uso utilizando lista e Tuplas com explicação e lista de exercícios`
+
+- [interacao_tuplas](https://github.com/Matheus-Nazario/tudo_sobre_listas_tuplas/blob/main/interacao_tuplas.py)</br>` interação com usurio utilizado tuplas`
+
+- [Enumerate](https://github.com/Matheus-Nazario/tudo_sobre_listas_tuplas/blob/main/enumerate.pyr) </br> ` Enumerate `
 
 
-<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">   __Welcome Geek__ Prazer sou o Matheus Nazário    👨‍🚀  </h1> <br/>
-<div slyle = 'text-align: center' align = 'center'>
-       Dev Back-end Pyhton 🐍  | SQL | C# .NET   |  Django 🤠  | SQLAlchemy 
-</div>
+<br>
+</br>
+
+<center>
+<a href="https://github.com/Matheus-Nazario">
+  <img src = "https://avatars.githubusercontent.com/u/58954901?v=4" width = "100px;" alt = "Minha foto" />
+  <br />
+  <sub> <b> Matheus Nazário </b> </sub>
+</a>
+
+<br />
+<br />
+
 <br/>
-<div slyle = 'text-align: center' align = 'center'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-nazário-676411b3/)](https://www.linkedin.com/in/matheus-nazário-676411b3/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511991120496&text=Olá!)](https://api.whatsapp.com/send?phone=5511991120496&text=Olá!)
@@ -18,36 +49,4 @@
 )](mailto:matheus.nazario@aluno.faculdadeimpacta.com.br
 )
 
-</div>
-
-<div slyle = 'text-align: center' align = 'center'>
-
-![Matheus-Nazario's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Nazario&hide=contribs,prs&theme=radical)
-
-</div>
-
-#### _My Tech_  🚀
-
-- `  Pyhton 🐍 | AWS | SQL | SQLAlchemy | Django 🤠 | Git | C# | .NET | Javascript | Nodejs | Docker | Salesforce APEX `
-
-#### _Minhas Atividades Atuais_ 👨‍🚀👨🏻‍💻 
-
-- AWS
-- Bootcamp Avanade *Decola Tech* 
-- API
-- Arquitetura de microsserviços
-
-
-## Sobre mim
-
-- ❤ Apaixonado por tecnologia 
-- 👨‍💻 4 anos como desenvolvedor full stack com o foco maior no Back-end.
-- 👨‍🎓 Engenharia de Produçlão (2018) & Análise e desenvolvimento de sistemas (2022).
-
-
-## Estatística do meu Git 😸
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Nazario&layout=compact&theme=radical)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Matheus-Nazariopage.id)
-                                                                                                                                                                    # tudo_sobre_listas_tuplas
+</center>
